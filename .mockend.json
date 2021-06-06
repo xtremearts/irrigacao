@@ -1,6 +1,6 @@
 {
 	"Irrigacao" : {
-		"valvula1" : true,
-		"valvula2" : true,
+		"valvula1": boolean,
+		"valvula2": boolean,
 	},
 }
