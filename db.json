@@ -3,11 +3,8 @@
     {
       "id": 1,
       "ligar": true
-    },
-    {
-      "id": 2,
-      "ligar": true
     }
+    
   ],
   "profile": {
     "name": "typicode"
