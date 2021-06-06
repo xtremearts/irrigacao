@@ -1,6 +1,15 @@
 {
-	"Irrigacao": {
-		"valvula1": true,
-		"valvula2": true,
-	}
+  "valvula": [
+    {
+      "id": 1,
+      "ligar": true
+    },
+    {
+      "id": 2,
+      "ligar": true
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
